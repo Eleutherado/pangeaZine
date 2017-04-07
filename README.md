@@ -24,3 +24,4 @@ Original Printed at The School of The Art Institute of Chicago
 
 ## gh Pages Site
 Published from /docs
+Converted from PDF to HTML5 with viewer using [IDR solutions online converter](https://www.idrsolutions.com/online-pdf-to-html5-converter/)
